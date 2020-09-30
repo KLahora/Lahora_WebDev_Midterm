@@ -1,0 +1,23 @@
+* {
+    font-size: 20px;
+    position: relative;
+    padding: 10px;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-right: 1px;
+  }
+
+    input[type="button"] 
+    { 
+    background-color:grey; 
+    color: black; 
+    border: solid black 2px; 
+    width:100% 
+    } 
+
+    input[type="text"] 
+    { 
+    background-color:white; 
+    border: solid black 2px; 
+    width:100% 
+    } 
