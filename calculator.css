@@ -1,11 +1,12 @@
 
-    .title{ 
-    margin-bottom: 10px; 
-    text-align:center; 
-    width: 210px; 
-    color:green; 
-    border: solid black 2px; 
-    } 
+   * {
+    font-size: 20px;
+    position: relative;
+    padding: 10px;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-right: 1px;
+  }
 
     input[type="button"] 
     { 
