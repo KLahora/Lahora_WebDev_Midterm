@@ -1,0 +1,248 @@
+body{
+    background-color:black;
+    margin:0px;
+    padding: 0px;
+    
+}
+ul{
+    list-style:none;
+}
+a{
+    text-decoration:none;
+}
+section{
+    width:100%;
+    height:95vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color:black;
+    box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+    padding: 0px 5%;
+}
+nav ul{
+    display:flex;
+}
+nav ul li a{
+    margin: 30px;
+    font-family: arial;
+    color:white;
+    font-size: 15px;
+    
+}
+.logo{
+   top:20px;
+   position: relative;
+}
+.top{
+    color:yellow;
+    font-family: Berlin Sans FB;
+    font-size:50px;
+    left:500px;
+    position: relative;
+    word-spacing: 15px;
+    line-height: 15px;
+    top:100px;
+
+}
+.me{
+    font-size: 40px;
+}
+.top2{
+    color:white;
+    font-family:arial;
+    font-size:20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.table{
+    left:500px;
+    position: relative;
+    text-align: justify;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    top:100px;
+    width:1000px;
+}
+.work1{
+    font-family:arial;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+}
+
+.work2{
+    font-family:arial;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+}
+.work3{
+    font-family:arial;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+}
+.work4{
+    font-family:arial;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+}
+.work5{
+    font-family:arial;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+}
+.work6{
+    font-family:arial;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+}
+.work1-text{
+    color:grey;
+    position: relative;
+    font-family: arial;
+    font-size:1o;
+    line-height: 1px;
+}
+.work2-text{
+    color:grey;
+    position: relative;
+    font-family: arial;
+    font-size:1o;
+    line-height: 1px;
+}
+.work3-text{
+    color:grey;
+    position: relative;
+    font-family: arial;
+    font-size:1o;
+    line-height: 1px;
+}
+
+.work4-text{
+    color:grey;
+    position: relative;
+    font-family: arial;
+    font-size:1o;
+    line-height: 1px;
+}
+.work5-text{
+    color:grey;
+    position: relative;
+    font-family: arial;
+    font-size:1o;
+    line-height: 1px;
+}
+.work6-text{
+    color:grey;
+    position: relative;
+    font-family: arial;
+    font-size:1o;
+    line-height: 1px;
+}
+.aboutme{
+    left: 500px;
+    position: relative;
+}
+.hello{
+    color:yellow;
+    font-size: 40px;
+    font-family: Berlin Sans FB;
+}
+.table2{
+    position: relative;
+    text-align: justify;
+    line-height: 4px;
+    width: 700px;
+    top:200px;
+}
+.info{
+    color:white;
+    font-size: 15px;
+    font-family: arial;
+
+}
+.info2{
+    color:white;
+    font-size: 15px;
+    font-family: arial;
+
+}
+.work1:hover{
+    text-decoration: underline;
+}
+.work2:hover{
+    text-decoration: underline;
+}
+.work3:hover{
+    text-decoration: underline;
+}
+.work4:hover{
+    text-decoration: underline;
+}
+.work5:hover{
+    text-decoration: underline;
+}
+.work6:hover{
+    text-decoration: underline;
+}
+.fb:hover{
+    text-decoration: underline;
+    color:yellow;
+}
+.gh:hover{
+    text-decoration: underline;
+    color:yellow;
+}
+.gm:hover{
+    text-decoration: underline;
+    color:yellow;
+}
+.footer{
+
+    width: 100%;
+    background-color: #f3f3f3;
+    position: relative;
+    top:400px;
+  }
+  
+  .footer a{
+    color: grey;
+  }
+  
+  .footer ul{
+    height: 7px;
+    font-family: sans-serif;
+  }
+  
+  #left-footer{
+    float: right;
+    width: 27%;
+  }
+  
+  #left-footer li{
+    display: inline;
+    margin-left: 20px;
+    font-size: small;
+  }
+  
+  #right-footer li{
+    display: inline;
+    margin-left: 20px;
+    font-size: small;
+  }
+  
+  #right-footer{
+    float: left;
+  }
+  
